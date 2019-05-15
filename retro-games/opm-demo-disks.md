@@ -126,6 +126,46 @@ __Non-playable Games:__ Brave Fencer Musashi, You Don't Know Jack, Tai-Fu, Oddwo
 __Playable Games:__ MediEvil, Future Cop LAPD, WarGames, colony Wars Vengeance, G-Darius, Dragonseeds   
 __Non-playable Games:__ Brave Fencer Musashi, You Don't Know Jack, Tai-Fu, Oddworld: Abe's Exodus, Tenchu, Rugrats, Crash Bandicoot: WARPED, Threadz  
 
+
+## Issue 16  
+__Playable Games:__ Moto Racer 2, Silent Hill, Brave Fencer Musashi, Apocalypse, Tai-Fu  
+__Non-playable Games:__ Test Drive Offroad 2, Rugrats, Syphon Filter, Threadz, Legend of Legaia   
+
+
+## Issue 17
+__Playable Games:__ NFL GameDay '99, Twisted Metal III, Oddworld: Abe's Exoddus, Destrega, Monkey Hero, O.D.T., Cool Boarders 3, NHL FaceOff '99   
+__Non-playable Games:__ Gex 3: Deep Cover Gecko, Jackie Chan's Stuntmaster, Shadow Madness, NCAA Final Four '99, WCW/NWO Thunder  
+
+
+## Issue 18
+__Playable Games:__ Bust A Groove, Shadow Madness, Fisherman's Bait, Syphon Filter, Street Sk8er, Akuji, No One Can Stop Mr. Domino  
+__Non-playable Games:__ Guardian's Crusade, NCAA Final Four '99  
+
+
+## Issue 19
+__Playable Games:__ Ridge Racer Type 4, Rollcage, Rugrats, WCW/NWO Thunder, Warzone 2100  
+__Non-playable Games:__ Legend of Legaia  
+
+
+## Issue 20
+__Playable Games:__ Legend of Legaia, Ehrgeiz, Gex 3: Deep Cover Gecko, Contender  
+__Non-playable Games:__ Centipede, G Police II: Weapons of Justice, Gauntlet Legends, Driver, Threadz, 3Xtreme  
+
+
+## Issue 21
+__Playable Games:__ NFL Blitz, R4: Ridge Racer Type 4, Oddworld: Abe's Exoddus, Elmo's Letter Adventure, Bust-A-Move 4  
+__Non-playable Games:__ Tony Hawk's Pro Skater, Jade Cocoon, MLB 2000, Star Ocean, Bloody Roar 2  
+
+
+## Issue 22
+__Playable Games:__ Bloody Roar 2, Interplay Sports Baseball 2000, Croc 2, The Next Tetris, Ape Escape, Tony Hawk's Pro Skater, Soul of the Samurai, MLB 2000  
+__Non-playable Games:__ Street Fighter Alpha 3, Macross VFX 2, Xena: Warrior Princess, Jet Moto 3
+
+
+## Issue XX
+__Playable Games:__ 
+__Non-playable Games:__ 
+
 ### Official US Playstation Magazine 31
 #### Playable Games
 - Rollcage Stage II
